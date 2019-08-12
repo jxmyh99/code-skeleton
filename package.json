@@ -1,9 +1,8 @@
 {
-    "name": "code-skeleton",
+    "name": "wlutls",
     "version": "1.0.0",
     "description": "封装模块及组件时所使用的代码架构",
-    "main": "min/outils.min.js",
-    "types": "index.d.ts",
+    "main": "min/wlutls.min.js",
     "scripts": {
         "build": "node script/build.js",
         "build-copy": "node script/build-copy.js",
